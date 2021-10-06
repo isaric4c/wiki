@@ -6,7 +6,7 @@ Contents
 <details open>
 <summary>Additional Fields</summary>
 <ul>
-<li>[[Added During Cleaning|Added During Cleaning]]</li>
+<li>[[ISARIC Variables Added During Cleaning|ISARIC Variables Added During Cleaning]]</li>
 </ul>
 </details> 
 </li>
@@ -33,7 +33,7 @@ Contents
 <details open>
 <summary>Additional Fields</summary>
 <ul>
-<li>[[Added During Cleaning|Added During Cleaning]]</li>
+<li>[[PHOSP Variables Added During Cleaning|PHOSP Variables Added During Cleaning]]</li>
 </ul>
 </details> 
 </li>
