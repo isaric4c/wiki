@@ -4,9 +4,13 @@ Contents
 <ul>
 <li>
 <details open>
-<summary>[[Additional ISARIC Fields|Additional ISARIC Fields]]</summary>
+<summary>Additional Fields</summary>
+<ul>
+<li>[[Added During Cleaning|Added During Cleaning]]</li>
+</ul>
 </details> 
 </li>
+
 
 <li>
 <details open>
@@ -27,7 +31,10 @@ Contents
 <ul>
 <li>
 <details open>
-<summary>[[Additional PHOSP Fields|Additional PHOSP Fields]]</summary>
+<summary>Additional Fields</summary>
+<ul>
+<li>[[Added During Cleaning|Added During Cleaning]]</li>
+</ul>
 </details> 
 </li>
 
