@@ -27,7 +27,7 @@ Contents
 <ul>
 <li>
 <details open>
-<summary>[[Additional Fields|Additional Fields]]</summary>
+<summary>[[Additional PHOSP Fields|Additional PHOSP Fields]]</summary>
 </details> 
 </li>
 
