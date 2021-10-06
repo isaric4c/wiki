@@ -1,13 +1,14 @@
 Contents
 <details open>
 <summary>[[PHOSP|PHOSP]]</summary>
-</details> 
-
 <ul>
+<li>
 <details open>
 <summary>[[Additional Fields|Additional Fields]]</summary>
 </details> 
+</li>
 
+<li>
 <details open>
 <summary>Case Report Form Definitions</summary>
 <ul>
@@ -78,4 +79,6 @@ Contents
 <li>[[PCR Swab Tests|PCR Swab Tests]]</li>
 </ul>
 </details> 
+</li>
 </ul>
+</details> 
