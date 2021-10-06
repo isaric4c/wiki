@@ -4,7 +4,7 @@ Contents
 <ul>
 <li>
 <details open>
-<summary>[[Additional Fields|Additional Fields]]</summary>
+<summary>[[Additional ISARIC Fields|Additional ISARIC Fields]]</summary>
 </details> 
 </li>
 
