@@ -19,6 +19,27 @@ Contents
 <li>[[Participant Identification Number (PIN)|Participant Identification Number (PIN)]]</li>
 <li>[[Tier|Tier]]</li>
 <li>[[Inclusion Criteria|Inclusion Criteria]]</li>
+<li>[[Demographics|Demographics]]</li>
+<li>[[Onset & Admission|Onset & Admission]]</li>
+<li>[[Admission Signs & Symptoms|Admission Signs & Symptoms]]</li>
+<li>[[Comorbidities|Comorbidities]]</li>
+<li>[[Preadmission Treatment|Preadmission Treatment]]</li>
+<li>[[Preadmission Medication|Preadmission Medication]]</li>
+<li>[[Reinfection Form|Reinfection Form]]</li>
+<li>[[Daily Form|Daily Form]]</li>
+<li>[[IRDP Diagnosis|IRDP Diagnosis]]</li>
+<li>[[IRDP Testing|IRDP Testing]]</li>
+<li>[[Treatment|Treatment]]</li>
+<li>[[Complications|Complications]]</li>
+<li>[[Study Participation|Study Participation]]</li>
+<li>[[Outcome|Outcome]]</li>
+<li>[[Final Outcome|Final Outcome]]</li>
+<li>[[Core Additional Information|Core Additional Information]]</li>
+<li>[[Withdrawal Form|Withdrawal Form]]</li>
+<li>[[Consent Ctu Dms|Consent Ctu Dms]]</li>
+<li>[[Confirmed Negative PCR|Confirmed Negative PCR]]</li>
+<li>[[Follow up Consent|Follow up Consent]]</li>
+<li>[[Follow up Self Assessment|Follow up Self Assessment]]</li>
 </ul>
 </details> 
 </li>
