@@ -1,0 +1,5 @@
+| Variable / Field Name    | Section Header | Field Type | Field Label                                                                                                                                            | Choices or Calculations |
+| ------------------------ | -------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| arm\_participant         |                | calc       | Arm participant is in                                                                                                                                  |                         |
+| tiers\_faorres\_\_\_x    |                | checkbox   | Please acknowledge that you have understood the consent taking process for the Tier(s) for which you are entering data. (Please select all that apply) |
+| tiers\_consent\_complete | Form Status    | dropdown   | Tiers section completed?                                                                                                                               |                         |
