@@ -1,0 +1,4 @@
+| Variable / Field Name              | Section Header | Field Type | Field Label                                 | Choices or Calculations                     |
+| ---------------------------------- | -------------- | ---------- | ------------------------------------------- | ------------------------------------------- |
+| confirmed\_negative\_pcr           |                | radio      | Confirmed negative PCR on direct DM enquiry | 1, Yes                                      |
+| confirmed\_negative\_pcr\_complete | Form Status    | dropdown   | Confirmed negative PCR section complete?    | 0, Incomplete ; 1, Unverified ; 2, Complete |
