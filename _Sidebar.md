@@ -27,8 +27,8 @@ Contents
 <li>[[Preadmission Medication|Preadmission Medication]]</li>
 <li>[[Reinfection Form|Reinfection Form]]</li>
 <li>[[Daily Form|Daily Form]]</li>
-<li>[[IRDP Diagnosis|IRDP Diagnosis]]</li>
-<li>[[IRDP Testing|IRDP Testing]]</li>
+<li>[[Infectious Respiratory Disease Pathogen Diagnosis|Infectious Respiratory Disease Pathogen Diagnosis]]</li>
+<li>[[Infectious Respiratory Disease Pathogen Testing|Infectious Respiratory Disease Pathogen Testing]]</li>
 <li>[[Treatment|Treatment]]</li>
 <li>[[Complications|Complications]]</li>
 <li>[[Study Participation|Study Participation]]</li>
