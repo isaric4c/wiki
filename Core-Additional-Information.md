@@ -1,0 +1,4 @@
+| Variable / Field Name                    | Section Header                                                         | Field Type | Field Label                           | Choices or Calculations                     |
+| ---------------------------------------- | ---------------------------------------------------------------------- | ---------- | ------------------------------------- | ------------------------------------------- |
+| core\_addinfo                            | Detail any additional information NOT captured in the CASE REPORT FORM | notes      | Additional Information                |                                             |
+| core\_additional\_information\_ complete | Form Status                                                            | dropdown   | Core Additional Information Complete? | 0, Incomplete ; 1, Unverified ; 2, Complete |
