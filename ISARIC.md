@@ -1,6 +1,6 @@
-**ISARIC (International Severe Acute Respiratory and emerging Infection Consortium COVID-19 Study)**
+**ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Study**
 
-Website: https://isaric.org/
+Website: https://isaric4c.net/
 
 The ISARIC study collects a wide range of information from patients either hospitalised from or with COVID-19 during the pandemic.
 
